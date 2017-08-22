@@ -1,4 +1,4 @@
-# MARMOT GAME ~ Programmer test
+# Whack the Marmot ~ Programmer test
 
 This project contains all assets needed to build a Whack The Mole style game on Unity.
 
