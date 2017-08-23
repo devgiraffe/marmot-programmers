@@ -17,4 +17,7 @@ http://i.imgur.com/uS6u166.png
 
 	★ Delivery an .Apk and a Source code zipped with the results.
 
+**Unity version:** 2017.1
+
+
 *All assets and animations created by Alexandre Chaves. http://chavesworks.tumblr.com/*
