@@ -19,5 +19,6 @@ http://i.imgur.com/uS6u166.png
 
 **Unity version:** 2017.1
 
+PS: You are free to create a new project, just make sure you'll use all assets and animations existed on the original.
 
 *All assets and animations created by Alexandre Chaves. http://chavesworks.tumblr.com/*
